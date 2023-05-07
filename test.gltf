@@ -74,13 +74,6 @@
       "componentType": 5126,
       "count": 6768,
       "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 0,
-      "componentType": 5125,
-      "count": 29334,
-      "type": "SCALAR"
     }
   ],
   "materials": [
